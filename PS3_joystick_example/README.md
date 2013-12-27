@@ -8,5 +8,5 @@ Note: to run these examples on the Raspberry Pi, all required libraries must be
 downloaded on the Pi as well. I can't remember exactly which ones they are, but
 they include:
 * sdl
-* ps3joy
+* [QtSixA](http://qtsixa.sourceforge.net/) 
 
